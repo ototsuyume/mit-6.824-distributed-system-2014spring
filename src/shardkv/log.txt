@@ -1,7 +1,0 @@
-2014/11/01 23:17:35 method Reconfig has wrong number of ins: 2
-2014/11/01 23:17:35 method Done has wrong number of ins: 2
-2014/11/01 23:17:35 method Kill has wrong number of ins: 1
-2014/11/01 23:17:35 method Max has wrong number of ins: 1
-2014/11/01 23:17:35 method Min has wrong number of ins: 1
-2014/11/01 23:17:35 method Start reply type not a pointer: interface {}
-2014/11/01 23:17:35 method Status has wrong number of ins: 2
